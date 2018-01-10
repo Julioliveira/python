@@ -1,6 +1,4 @@
-#!C:\Users\Julio\AppData\Local\Programs\Python\Python36-32
 import openpyxl
-from datetime import datetime
 from sys import argv as arguments
 
 
